@@ -1,0 +1,212 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "id": "customnpcs:npcCoinBronze",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "customnpcs:npcCoinBronze",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:wand_rod",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "thaumcraft:wand_cap",
+                "Count": 1b,
+                "Damage": 4s
+            },
+            {
+                "Slot": 2b,
+                "id": "thaumcraft:focus_grapple",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "thaumcraft:wand_rod",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 4b,
+                "id": "customnpcs:npcShuriken",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "thaumcraft:focus_hellbat",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "thaumcraft:wand_rod",
+                "Count": 1b,
+                "Damage": 5s
+            },
+            {
+                "Slot": 7b,
+                "id": "customnpcs:npcGiantShuriken",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "thaumcraft:focus_pech",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "thaumcraft:wand_rod",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 10b,
+                "id": "customnpcs:npcMana",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "thaumcraft:phial",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "thaumcraft:wand_rod",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 13b,
+                "id": "customnpcs:npcGoldenBullet",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "id": "thaumcraft:wand_cap",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 16b,
+                "id": "thaumcraft:phial",
+                "Count": 1b,
+                "tag": {
+                    "Aspects": [
+                        {
+                            "amount": 8,
+                            "key": "volatus"
+                        }
+                    ]
+                },
+                "Damage": 1s
+            }
+        ]
+    }
+}

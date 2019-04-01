@@ -1,0 +1,94 @@
+{
+    "CompleterNpc": "Механик Роджер",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Найти корундум на острове...",
+    "Text": "Корундум находится на острове, попасть туда поможет речной проводник, там нужно будет пробратся внутрь шахт.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 30,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "Роджер",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ],
+        "MailQuest": -1,
+        "TimePast": 1477666634234L,
+        "Time": 0L,
+        "Subject": "Я нашел способ!"
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "corundum:corundum_sword",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "corundum:corundum_helmet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "corundum:corundum_chestplate",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "corundum:corundum_leggings",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "corundum:corundum_boots",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "corundum:corundum_ingot",
+                "Count": 25b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Отлично! Ты молодец, я даже не думал, что он существует! Сейчас сделаю тебе броню. На, держи, ты ее заслужил.Я попытаюсь разобраться в корундуме. Если что откопаю, отправлю тебе письмо!",
+    "NextQuestTitle": ""
+}

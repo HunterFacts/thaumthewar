@@ -1,0 +1,62 @@
+{
+    "CompleterNpc": "Шердиль",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "10 Золотых",
+    "Text": "Найти 10 золотых для архимага. Они понадобятся для покупки необходимых вещей и предметов.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "Архимаг",
+        "MailQuestTitle": "Доплатить",
+        "BeenRead": 0b,
+        "Message": {
+            "pages": [
+                "Я закончил стройку, приходи ко мне, я тебе покажу алтарь! Только придется отдать одну золотую. Надеюсь для тебя это не составит трудности."
+            ]
+        },
+        "MailItems": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:phial",
+                "Count": 2b,
+                "Damage": 0s
+            }
+        ],
+        "MailQuest": 17,
+        "TimePast": 1503480539066L,
+        "Time": 0L,
+        "Subject": "Стройка закончена!"
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 10b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Ого! Спасибо! Теперь я смогу построить эту громадину, я отправлю тебе письмо с завершением, как только закончу!",
+    "NextQuestTitle": ""
+}

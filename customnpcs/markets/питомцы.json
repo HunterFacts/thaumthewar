@@ -1,0 +1,210 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 45b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 33b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "inventorypets:chest_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "inventorypets:chest_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "customnpcs:npcCoinBronze",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "customnpcs:npcCoinBronze",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 1b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "inventorypets:chest_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "inventorypets:iron_golem_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "inventorypets:nugget_iron",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "inventorypets:double_chest_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "inventorypets:banana_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "minecraft:iron_ingot",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "inventorypets:crafting_table_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "minecraft:planks",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "minecraft:glowstone_dust",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "inventorypets:furnace_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "id": "minecraft:log",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "inventorypets:ender_chest_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "minecraft:coal",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "id": "inventorypets:anvil_pet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "inventorypets:nugget_ender",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    }
+}

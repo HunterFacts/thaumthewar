@@ -1,0 +1,237 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 33b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "customnpcs:npcCoinBronze",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 25b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "customnpcs:npcCoinBronze",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 6b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcMithrilHead",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "mod_quiver:emptybowandquiver",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "customnpcs:npcKunai",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "customnpcs:npcMithrilChest",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "mod_quiver:vanillaarrowbowandquiver",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "customnpcs:npcCrossbow",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "customnpcs:npcMithrilLegs",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "mod_quiver:ironarrowbowandquiver",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "customnpcs:npcCrossBolt",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "customnpcs:npcMithrilBoots",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "id": "customnpcs:npcLeafBlade",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 5s,
+                            "id": 18s
+                        }
+                    ],
+                    "RepairCost": 1
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "customnpcs:npcMithrilScythe",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "minecraft:arrow",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "mod_quiver:poison_arrow",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "customnpcs:npcMithrilWarhammer",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "id": "diatipsteel:steelSword",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "mod_quiver:iron_arrow",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    }
+}

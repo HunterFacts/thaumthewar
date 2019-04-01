@@ -1,0 +1,70 @@
+{
+    "CompleterNpc": "Дерек",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Уничтожить атаманов",
+    "Text": "Дерек сказал, первым делом нужно уничтожить атаманов. Их база находится за их баром. Внутри нужно убить всех солдат и их предводителя, а также найти кулон!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1525706503149L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcPendant",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 1s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Кулон атамана"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Спасибо большое! Держи награду за их головы. Наконец-то мы уничтожили эту глупую группировку. Ну еще осталась Каста. Твоя цель их предводитель!",
+    "NextQuestTitle": ""
+}

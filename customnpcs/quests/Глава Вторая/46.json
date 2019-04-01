@@ -1,0 +1,64 @@
+{
+    "CompleterNpc": "Брайан",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Договориться с групировками и принести договор",
+    "Text": "Король согласился отправить солдат, если я договорюсь с одной из групировок и принесу ему договор. Поиски групировок стоит начать на рынке в городе. Город находится за стеной замка.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1530543776211L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 10b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcLetter",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Договор для короля"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Ты смог! Ты договорился с одной из группировок и уничтожил другие! Насчёт солдат поговори с моим главнокомандующим.",
+    "NextQuestTitle": ""
+}

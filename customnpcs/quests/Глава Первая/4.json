@@ -1,0 +1,69 @@
+{
+    "CompleterNpc": "Король Фредрик",
+    "NextQuestId": 5,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Убить пауков",
+    "Text": "Чтобы узнать, откуда я - мне нужно выполнить задание  короля. Им мешают пауки в шахтах, нужно их уничтожить.До шахты ведет ковры из лаймовой шерсти.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 5,
+            "Slot": "Кристальный паук"
+        }
+    ],
+    "ModRev": 17,
+    "Type": 2,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1511362361918L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:iron_helmet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "minecraft:iron_chestplate",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:iron_sword",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Отлично, а теперь задание номер два. Вернись обратно к той базе бандитов и разгроми ее. Вот тебе меч и броня для этого",
+    "NextQuestTitle": "Разграбить пиратов и принести сумку"
+}

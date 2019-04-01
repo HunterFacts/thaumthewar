@@ -1,0 +1,171 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:baubles",
+                "Count": 1b,
+                "tag": {
+                    "color": 14013676
+                },
+                "Damage": 7s
+            },
+            {
+                "Slot": 1b,
+                "id": "thaumcraft:ring_runic",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 2b,
+                "id": "thaumcraft:void_robe_helm",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "thaumcraft:ring_runic",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 4b,
+                "id": "elementalitems:Cold Fire Sword",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "thaumcraft:void_robe_chest",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "thaumcraft:amulet_runic",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 7b,
+                "id": "elementalitems:Fire Sword",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "thaumcraft:void_robe_legs",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "thaumcraft:amulet_runic",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "thaumcraft:void_boots",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "thaumcraft:girdle_runic",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 15b,
+                "id": "thaumcraft:girdle_runic",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    }
+}

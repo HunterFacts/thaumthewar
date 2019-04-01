@@ -1,0 +1,86 @@
+{
+    "CompleterNpc": "Модеус",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Найти 10 таинственной соли для Модеуса",
+    "Text": "Модеус сказал, что замок до сих пор весь не изучен. И что в ней находится около 10 горсток необычной древней соли. Если я найду таких 10, он меня вознаградит.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1537047907163L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "abyssalcraft:corbow",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 1s,
+                            "id": 51s
+                        },
+                        {
+                            "lvl": 1s,
+                            "id": 9s
+                        }
+                    ],
+                    "RepairCost": 7,
+                    "display": {
+                        "Name": "Мехаитовый лук из коралла"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:bath_salts",
+                "Count": 10b,
+                "tag": {
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Старинная соль"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Молодец! Вот держи наш лук. Он сделан по очень сложной концепции.",
+    "NextQuestTitle": ""
+}

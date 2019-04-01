@@ -1,0 +1,52 @@
+{
+    "CompleterNpc": "Повар Робин",
+    "NextQuestId": 12,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 1b,
+    "Title": "Найти необычные вещи у культа",
+    "Text": "Нужно найти вещи которые принадлежат багровому культу, это может быть или свиток или книга...",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1488379108777L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:crimson_rites",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 1b,
+    "CompleteText": "Интересно, интересно. Стоп! Больно! Я немогу прочитать это! Эта книга опасна для моих глаз. В ней очень мощная сила! Отнеси ее Архимагу! Он живет на горе. Туда наш проводник может отправить (Локация: Вершина горы)",
+    "NextQuestTitle": "Отнести книгу Верховному магу"
+}

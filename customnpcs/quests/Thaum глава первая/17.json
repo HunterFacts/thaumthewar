@@ -1,0 +1,83 @@
+{
+    "CompleterNpc": "Шердиль",
+    "NextQuestId": 18,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Доплатить",
+    "Text": "Нужно отдать последнюю монетку и тогда все будет готово.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 15,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1488205628121L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:phial",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "thaumcraft:shard",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "thaumcraft:plank",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:diamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "minecraft:written_book",
+                "Count": 1b,
+                "tag": {
+                    "pages": [
+                        "\"Расположи на любом пьедестале:\nГрозовый кристалл\nГрозовый кристалл\nВеликодревесные доски\nАлмаз\n\nА в центральном пьедестале расположи:\nТаум - Меч\""
+                    ],
+                    "author": "HunterFacts",
+                    "title": "Рецепт меча бури"
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Все! Закончил. Она в соседней башне. Я дам тебе ингредиенты, попробуй сделать меч бури! Чтобы его сделать, нужно будет разместить на пьедесталах необходимые ингредиенты. Я выдам тебе книгу для работы. Также можешь посмотреть в таумониконе.",
+    "NextQuestTitle": "Меч Бури"
+}

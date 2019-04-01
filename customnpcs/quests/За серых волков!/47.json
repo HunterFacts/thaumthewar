@@ -1,0 +1,90 @@
+{
+    "CompleterNpc": "Командир серых волков",
+    "NextQuestId": 48,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Найти сумку на дне колодца",
+    "Text": "В синей земле около конюшней находиться колодец. Нужно прыгнуть в него и достать сумку. Чтобы попасть на синие  земли, нужно поговорить с командиром стражи у мельницы.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 1b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 15,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 300,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1514635170837L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcIronBattleAxe",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 16s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 34s
+                        },
+                        {
+                            "lvl": 3s,
+                            "id": 7s
+                        }
+                    ],
+                    "RepairCost": 3,
+                    "display": {
+                        "Name": "Топор серых волков"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcSatchel",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Сумка с сокровищами"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Спасибо тебе. Теперь ты принят к нам, естественно без твоего согласия! Держи этот топор и теперь ты можешь подойти к главному в подвале, вход открылся рядом с нами!",
+    "NextQuestTitle": "Поговорить с главным серых волков"
+}

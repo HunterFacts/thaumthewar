@@ -1,0 +1,64 @@
+{
+    "CompleterNpc": "Шердиль",
+    "NextQuestId": 16,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Отдать скрижаль Архимагу",
+    "Text": "Нужно отнести скрижаль Архимагу и отдать ее ему, тогда он может продвинется на еще один шаг по борьбе с культом!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 40,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1488110169200L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:focus_shock",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "thaumcraft:void_sword",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:runed_tablet",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Отлично, я вижу ты справился! Теперь я могу сделать точно такой же алтарь, у себя в замке! Но для этого мне понадобится 10 золотых! Найди их и я построю его в соседней башне! А так держи, ты это заслужил, это набалдашник, он тебе пригодится! Я думаю, ты поймешь, как его одеть!",
+    "NextQuestTitle": "10 Золотых"
+}

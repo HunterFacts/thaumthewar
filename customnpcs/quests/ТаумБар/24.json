@@ -1,0 +1,138 @@
+{
+    "CompleterNpc": "Бармен Эргольд",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Открыть путь лучу",
+    "Text": "Бармен рассказал мне про луч, моя цель попасть в пещеры и найти тот самый алтарь. После нахождение открыть путь для луча.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 3,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1498544183382L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:diamond_sword",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 16s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "CustomPotionEffects": [
+                        {
+                            "Ambient": 0b,
+                            "Duration": 4200,
+                            "Id": 22b,
+                            "Amplifier": 1b
+                        },
+                        {
+                            "Ambient": 0b,
+                            "Duration": 2400,
+                            "Id": 5b,
+                            "Amplifier": 1b
+                        },
+                        {
+                            "Ambient": 0b,
+                            "Duration": 200,
+                            "Id": 6b,
+                            "Amplifier": 3b
+                        },
+                        {
+                            "Ambient": 0b,
+                            "Duration": 3000,
+                            "Id": 11b,
+                            "Amplifier": 1b
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "ТаумКоктейль"
+                    }
+                },
+                "Damage": 16384s
+            },
+            {
+                "Slot": 2b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "CustomPotionEffects": [
+                        {
+                            "Ambient": 0b,
+                            "Duration": 4200,
+                            "Id": 22b,
+                            "Amplifier": 1b
+                        },
+                        {
+                            "Ambient": 0b,
+                            "Duration": 2400,
+                            "Id": 5b,
+                            "Amplifier": 1b
+                        },
+                        {
+                            "Ambient": 0b,
+                            "Duration": 200,
+                            "Id": 6b,
+                            "Amplifier": 3b
+                        },
+                        {
+                            "Ambient": 0b,
+                            "Duration": 3000,
+                            "Id": 11b,
+                            "Amplifier": 1b
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "ТаумКоктейль"
+                    }
+                },
+                "Damage": 16384s
+            }
+        ]
+    },
+    "CompleteText": "Наш фонтан снова засеял. Это хорошая новость, ведь я смогу теперь варить ТаумКоктейль, держи награду. Это два ТаумКоктейля, они хранились у меня вподсобке несколько лет.",
+    "NextQuestTitle": "",
+    "QuestLocation": "altar"
+}

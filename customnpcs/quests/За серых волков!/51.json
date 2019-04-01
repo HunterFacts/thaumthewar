@@ -1,0 +1,64 @@
+{
+    "CompleterNpc": "Дерек",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Неволя касты",
+    "Text": "Один из людей светлой касты должен купить амулет для группировки. Цель убить всех на той встречи. После принести амулет Дереку.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1515936148476L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 4b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:baubles",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Амулет травм"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Молодец! Держи твоя награда. Теперь нужно еще о кое о чем поговорить.",
+    "NextQuestTitle": ""
+}

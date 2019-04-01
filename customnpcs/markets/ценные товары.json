@@ -1,0 +1,312 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 33b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 48b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 48b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 24b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 48b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcDemonicSword",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Демонический палаш"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "customnpcs:npcFrostWarhammer",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 11s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 20s
+                        },
+                        {
+                            "lvl": 3s,
+                            "id": 34s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "abyssalcraft:corsword",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 1s,
+                            "id": 17s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Небесная Кара!"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:bow",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 1s,
+                            "id": 50s
+                        },
+                        {
+                            "lvl": 3s,
+                            "id": 34s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Говорящий Лук"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "abyssalcraft:cudgel",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Хвост Дирексора"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "minecraft:diamond_sword",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 16s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 20s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Зачарованный меч"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "mod_quiver:emptybowandquiver",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 48s
+                        },
+                        {
+                            "lvl": 1s,
+                            "id": 50s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Киллер"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "customnpcs:npcCursedTrident",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 19s
+                        },
+                        {
+                            "lvl": 3s,
+                            "id": 34s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "id": "abyssalcraft:dreadiumplate",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 1s,
+                            "id": 0s
+                        }
+                    ],
+                    "RepairCost": 3,
+                    "display": {
+                        "Name": "Адский нагрудник"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "customnpcs:npcFrostSword",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 34s
+                        },
+                        {
+                            "lvl": 4s,
+                            "id": 11s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "customnpcs:npcMithrilHead",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 4s
+                        },
+                        {
+                            "lvl": 3s,
+                            "id": 34s
+                        },
+                        {
+                            "lvl": 1s,
+                            "id": 6s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Мифриловый шлем"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "id": "abyssalcraft:ethaxiumsword",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 21s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Эдруидовый меч"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    }
+}
