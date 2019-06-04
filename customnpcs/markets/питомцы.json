@@ -8,6 +8,12 @@
                 "Damage": 0s
             },
             {
+                "Slot": 32b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 33b,
                 "id": "customnpcs:npcCoinGold",
                 "Count": 10b,
@@ -98,6 +104,12 @@
                 "Damage": 0s
             },
             {
+                "Slot": 29b,
+                "id": "customnpcs:npcCoinDiamond",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 30b,
                 "id": "customnpcs:npcCoinGold",
                 "Count": 7b,
@@ -182,6 +194,12 @@
                 "Damage": 0s
             },
             {
+                "Slot": 11b,
+                "id": "testenvironmentmod:Sw10",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 12b,
                 "id": "inventorypets:ender_chest_pet",
                 "Count": 1b,
@@ -190,6 +208,12 @@
             {
                 "Slot": 13b,
                 "id": "minecraft:coal",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "testenvironmentmod:Sw18",
                 "Count": 1b,
                 "Damage": 0s
             },

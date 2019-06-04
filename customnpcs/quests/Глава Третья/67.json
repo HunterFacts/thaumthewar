@@ -1,10 +1,11 @@
 {
     "CompleterNpc": "Модеус",
-    "NextQuestId": -1,
+    "NextQuestId": 69,
+    "QuestLocation3": "",
     "RandomReward": 0b,
+    "QuestLocation2": "",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
-    "IgnoreNBT": 0b,
     "Title": "Найти способ попасть наверх в город",
     "Text": "Мне нужно попасть в город, который находится на парящих островах. Попасть туда мне поможет, либо цепи, либо проводники. При выходе из замка Мехаитов мне также посоветовали пойти направо по подзоловой дороге. Там у обсидиановых цепей, меня должен встретить проводник.",
     "QuestFactionPoints": {
@@ -18,7 +19,7 @@
     "RewardExp": 0,
     "QuestCommand": "",
     "ModRev": 17,
-    "Type": 0,
+    "Type": 3,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -27,20 +28,15 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1537091264450L,
+        "TimePast": 1557164691257L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
         ]
     },
-    "Items": {
-        "NpcMiscInv": [
-        ]
-    },
-    "LeaveItems": 0b,
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Поговорить с охранником у ворот",
+    "QuestLocation": "Деревня на островах"
 }

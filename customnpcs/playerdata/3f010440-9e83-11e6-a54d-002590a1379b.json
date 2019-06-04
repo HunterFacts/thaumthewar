@@ -4,6 +4,9 @@
     "TransportData": [
         {
             "Transport": 26
+        },
+        {
+            "Transport": 29
         }
     ],
     "FactionData": [
@@ -62,6 +65,10 @@
         {
             "Points": 800,
             "Faction": 17
+        },
+        {
+            "Points": 550,
+            "Faction": 18
         }
     ],
     "BankData": [
