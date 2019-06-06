@@ -1,0 +1,80 @@
+{
+    "CompleterNpc": "Таинственный старец",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Принести 5 бедроковых слитков",
+    "Text": "Эльвир попросил меня принести ему 5 бедроковых слитков, чтобы открыть дверь, а также позже продавать их мне в неограниченном количестве.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "Эльвир",
+        "MailQuestTitle": "Спуститься в храм",
+        "BeenRead": 0b,
+        "Message": {
+            "pages": [
+                "Я открыл вход в подвал, можешь приходить и спускаться. Тут довольно жутко, так что поторопись!"
+            ]
+        },
+        "MailItems": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:ingot",
+                "Count": 2b,
+                "Damage": 0s
+            }
+        ],
+        "MailQuest": 74,
+        "TimePast": 1559845759916L,
+        "Time": 0L,
+        "Subject": "Я открыл!"
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "abyssalcraft:ethaxiumplate",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 3,
+                    "display": {
+                        "Name": "Обогащенный бедроком нагр."
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "modname:Ingot12",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "А вот и слитки, держи награду! Я отправлю тебе письмо как закончу!",
+    "NextQuestTitle": ""
+}

@@ -1,10 +1,11 @@
 {
     "CompleterNpc": "Барин",
-    "NextQuestId": -1,
+    "NextQuestId": 72,
+    "QuestLocation3": "",
     "RandomReward": 0b,
+    "QuestLocation2": "",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
-    "IgnoreNBT": 0b,
     "Title": "Добраться до бедроковой пустоши",
     "Text": "Барин направил меня в бедроковую пустошь в логово воров. Нужно следовать по оранжевой глине и я не заблужусь.",
     "QuestFactionPoints": {
@@ -18,7 +19,7 @@
     "RewardExp": 0,
     "QuestCommand": "",
     "ModRev": 17,
-    "Type": 0,
+    "Type": 3,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -27,20 +28,15 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1559577320997L,
+        "TimePast": 1559845472666L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
         ]
     },
-    "Items": {
-        "NpcMiscInv": [
-        ]
-    },
-    "LeaveItems": 0b,
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Найти владельца таблички",
+    "QuestLocation": "Бедроковая пустошь"
 }
