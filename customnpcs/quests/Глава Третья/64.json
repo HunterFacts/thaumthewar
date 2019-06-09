@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1537044765564L,
+        "TimePast": 1560092275385L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,7 +41,7 @@
             {
                 "Slot": 0b,
                 "id": "powersuits:item.powerArmorComponent.componentSolarPanel",
-                "Count": 64b,
+                "Count": 1b,
                 "tag": {
                     "ench": [
                         {

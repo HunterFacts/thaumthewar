@@ -1,0 +1,60 @@
+{
+    "CompleterNpc": "Модеус",
+    "NextQuestId": 78,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Отдать дневник модеусу",
+    "Text": "Отдайте дневник модеусу!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1560079560144L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:written_book",
+                "Count": 1b,
+                "tag": {
+                    "pages": [
+                        "\"Этот советник Мехаитов видимо не понял наше соглашение. Он должен был принести не сердечник машины, а всю машину по частям. Ну нечего, без сердечника они все равно скоро ослабнут. Вот тогда мы нападём и отобъем их крепость вместе с машиной. Этот ...\"",
+                        "\"бедроковый источник слишком важен.\""
+                    ],
+                    "author": "HunterFacts",
+                    "title": "Записки Рона"
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "",
+    "NextQuestTitle": "Поговорить с модеусом"
+}

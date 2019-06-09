@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "Модеус",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Добраться до модеуса и попытаться ему все объяснить",
+    "Text": "Думаю, что пока я зачищал логово, бандиты уже доложили советнику, что я там был. Думаю, что он подговорил Модеуса, что я причастен ко всему этому. Нужно срочно добраться до модеуса и все объяснить ему!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 17,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 900,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 256,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 17,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1560083092324L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "",
+    "NextQuestTitle": ""
+}
