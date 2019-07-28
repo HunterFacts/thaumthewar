@@ -1,11 +1,11 @@
 {
-    "CompleterNpc": "Вуди",
-    "NextQuestId": -1,
+    "CompleterNpc": "Охранник короля кастмании",
+    "NextQuestId": 58,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
-    "Title": "Поговорить с королём Кастмании",
-    "Text": "Двигаясь в  по дорожке от барьера, можно найти там королевство. Нужно поговорить с ее королем и запросить солдат в помощь.",
+    "Title": "Узнать, что случилось",
+    "Text": "Дерек прислал мне письмо. Там указано, что нужно встретиться. Судя по теме, что-то пошло не так.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -17,10 +17,6 @@
     "RewardExp": 0,
     "QuestCommand": "",
     "QuestDialogs": [
-        {
-            "Integer": 149,
-            "Slot": 0
-        }
     ],
     "ModRev": 17,
     "Type": 1,
@@ -32,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1560096772484L,
+        "TimePast": 1560100318658L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,5 +37,5 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Уничтожить атаманов"
 }

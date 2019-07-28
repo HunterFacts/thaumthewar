@@ -1,11 +1,11 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": 3,
+    "AvailabilityQuestId": -1,
     "Options": [
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 3,
+    "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -23,12 +23,12 @@
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Снежный охр. Люк",
-    "AvailabilityDialog": 0,
+    "AvailabilityDialog": 2,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": -1,
+    "AvailabilityDialogId": 10,
     "OptionFaction2Points": 100,
     "DialogText": "Простите, но через сюда нельзя. Есть много обходным путей, пройдите через них пожалуйста.",
     "AvailabilityQuest4Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1476543304703L,
+        "TimePast": 1560094600274L,
         "Time": 0L,
         "Subject": ""
     }

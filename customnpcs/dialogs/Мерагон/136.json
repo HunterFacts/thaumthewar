@@ -13,7 +13,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 17,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 45,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1511443048460L,
+        "TimePast": 1560096427320L,
         "Time": 0L,
         "Subject": ""
     }

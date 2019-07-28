@@ -20,16 +20,20 @@
     "ModRev": 17,
     "Type": 0,
     "QuestMail": {
-        "Sender": "",
+        "Sender": "Дерек",
+        "MailQuestTitle": "Узнать, что случилось",
         "BeenRead": 0b,
         "Message": {
+            "pages": [
+                "Все при встрече. Дерек"
+            ]
         },
         "MailItems": [
         ],
-        "MailQuest": -1,
-        "TimePast": 1525706231938L,
+        "MailQuest": 81,
+        "TimePast": 1560100335755L,
         "Time": 0L,
-        "Subject": ""
+        "Subject": "Неудача"
     },
     "IgnoreDamage": 0b,
     "Rewards": {

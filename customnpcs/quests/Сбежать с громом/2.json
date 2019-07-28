@@ -6,7 +6,7 @@
     "QuestLocation2": "",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
-    "Title": "2. Выбраться",
+    "Title": "Выбраться",
     "Text": "",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1498377075147L,
+        "TimePast": 1560094668779L,
         "Time": 0L,
         "Subject": ""
     },

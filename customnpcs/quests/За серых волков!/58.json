@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Дерек",
-    "NextQuestId": -1,
+    "NextQuestId": 59,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525706503149L,
+        "TimePast": 1560100312162L,
         "Time": 0L,
         "Subject": ""
     },
@@ -66,5 +66,5 @@
     },
     "LeaveItems": 0b,
     "CompleteText": "Спасибо большое! Держи награду за их головы. Наконец-то мы уничтожили эту глупую группировку. Ну еще осталась Каста. Твоя цель их предводитель!",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Убийство Света"
 }

@@ -22,7 +22,7 @@
     "OptionFaction1Points": 1000,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Сю5 убить",
+    "DialogTitle": "Дерек_",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525706590739L,
+        "TimePast": 1560100209108L,
         "Time": 0L,
         "Subject": ""
     }

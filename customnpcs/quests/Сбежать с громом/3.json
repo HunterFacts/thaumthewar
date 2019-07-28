@@ -6,7 +6,7 @@
     "QuestLocation2": "",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
-    "Title": "3. Найти снежное королевство.",
+    "Title": "Найти снежное королевство.",
     "Text": "Нужно найти снежное королевство и поговорить с его верховным королём - Фредриком.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1498376672648L,
+        "TimePast": 1560094672370L,
         "Time": 0L,
         "Subject": ""
     },
