@@ -76,6 +76,10 @@
         {
             "Points": 50,
             "Faction": 19
+        },
+        {
+            "Points": 600,
+            "Faction": 20
         }
     ],
     "BankData": [
