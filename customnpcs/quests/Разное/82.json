@@ -27,13 +27,37 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1568547438670L,
+        "TimePast": 1569057000606L,
         "Time": 0L,
         "Subject": ""
     },
     "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:diamond_sword",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 16s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 19s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 4b,
+                "Damage": 0s
+            }
         ]
     },
     "Items": {

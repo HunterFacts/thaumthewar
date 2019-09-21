@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "Эльдрен",
+    "NextQuestId": 84,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Найти наемного мага",
+    "Text": "Местный священник попросил меня о помощи в борьбе с заражением, которое поглощает деревню. Всей информацией владеет некий наемный маг. Тайный вход в его бронированный дом находится около конюшни.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 276,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 17,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1569062906553L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "",
+    "NextQuestTitle": "Найти что-то необычно у альтаря"
+}
