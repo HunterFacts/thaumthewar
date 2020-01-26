@@ -72,7 +72,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Гельников привет",
+    "DialogTitle": "1 Гельников",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -97,7 +97,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525705777588L,
+        "TimePast": 1580037543574L,
         "Time": 0L,
         "Subject": ""
     }

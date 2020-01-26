@@ -1,0 +1,46 @@
+{
+    "CompleterNpc": "Зараженный",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "IgnoreNBT": 0b,
+    "Title": "Взорвать храм!",
+    "Text": "Нужно подготовиться, местный узник откроет вход в главный зал, в нем нужно будет опустить три рычага, тем самым сдетонирует бомба высого масштаба. Последний рычаг нужно будет опустить сидя на вагонетки, чтобы избежать смерти от взрыва.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1580038619824L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "",
+    "NextQuestTitle": ""
+}
