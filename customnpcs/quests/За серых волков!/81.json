@@ -7,16 +7,20 @@
     "Title": "Узнать, что случилось",
     "Text": "Дерек прислал мне письмо. Там указано, что нужно встретиться. Судя по теме, что-то пошло не так.",
     "QuestFactionPoints": {
-        "DecreaseFaction1Points": 0b,
-        "OptionFaction2Points": 100,
-        "OptionFactions1": -1,
-        "OptionFactions2": -1,
-        "OptionFaction1Points": 100,
-        "DecreaseFaction2Points": 0b
+        "DecreaseFaction1Points": 1b,
+        "OptionFaction2Points": 1000,
+        "OptionFactions1": 15,
+        "OptionFactions2": 16,
+        "OptionFaction1Points": 1000,
+        "DecreaseFaction2Points": 1b
     },
     "RewardExp": 0,
     "QuestCommand": "",
     "QuestDialogs": [
+        {
+            "Integer": 188,
+            "Slot": 0
+        }
     ],
     "ModRev": 17,
     "Type": 1,
@@ -28,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1560100318658L,
+        "TimePast": 1594224104277L,
         "Time": 0L,
         "Subject": ""
     },

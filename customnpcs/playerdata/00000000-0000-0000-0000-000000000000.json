@@ -3,22 +3,13 @@
     ],
     "TransportData": [
         {
-            "Transport": 1
+            "Transport": 29
+        },
+        {
+            "Transport": 30
         }
     ],
     "FactionData": [
-        {
-            "Points": 2000,
-            "Faction": 0
-        },
-        {
-            "Points": 1000,
-            "Faction": 1
-        },
-        {
-            "Points": 1,
-            "Faction": 2
-        },
         {
             "Points": 1000,
             "Faction": 3
@@ -33,10 +24,6 @@
         },
         {
             "Points": 1,
-            "Faction": 6
-        },
-        {
-            "Points": 1,
             "Faction": 7
         },
         {
@@ -46,22 +33,6 @@
         {
             "Points": 1,
             "Faction": 9
-        },
-        {
-            "Points": 1,
-            "Faction": 10
-        },
-        {
-            "Points": 1000,
-            "Faction": 11
-        },
-        {
-            "Points": 1000,
-            "Faction": 12
-        },
-        {
-            "Points": 751,
-            "Faction": 13
         },
         {
             "Points": 600,
@@ -74,6 +45,18 @@
         {
             "Points": 600,
             "Faction": 16
+        },
+        {
+            "Points": 800,
+            "Faction": 17
+        },
+        {
+            "Points": 550,
+            "Faction": 18
+        },
+        {
+            "Points": 50,
+            "Faction": 19
         },
         {
             "Points": 600,
@@ -96,185 +79,5 @@
     "UUID": "00000000-0000-0000-0000-000000000000",
     "PlayerCompanionId": 0,
     "DialogData": [
-        {
-            "Dialog": 128
-        },
-        {
-            "Dialog": 129
-        },
-        {
-            "Dialog": 4
-        },
-        {
-            "Dialog": 5
-        },
-        {
-            "Dialog": 6
-        },
-        {
-            "Dialog": 9
-        },
-        {
-            "Dialog": 137
-        },
-        {
-            "Dialog": 138
-        },
-        {
-            "Dialog": 139
-        },
-        {
-            "Dialog": 140
-        },
-        {
-            "Dialog": 141
-        },
-        {
-            "Dialog": 142
-        },
-        {
-            "Dialog": 15
-        },
-        {
-            "Dialog": 16
-        },
-        {
-            "Dialog": 17
-        },
-        {
-            "Dialog": 145
-        },
-        {
-            "Dialog": 18
-        },
-        {
-            "Dialog": 146
-        },
-        {
-            "Dialog": 19
-        },
-        {
-            "Dialog": 147
-        },
-        {
-            "Dialog": 20
-        },
-        {
-            "Dialog": 148
-        },
-        {
-            "Dialog": 149
-        },
-        {
-            "Dialog": 22
-        },
-        {
-            "Dialog": 23
-        },
-        {
-            "Dialog": 151
-        },
-        {
-            "Dialog": 25
-        },
-        {
-            "Dialog": 154
-        },
-        {
-            "Dialog": 27
-        },
-        {
-            "Dialog": 155
-        },
-        {
-            "Dialog": 28
-        },
-        {
-            "Dialog": 156
-        },
-        {
-            "Dialog": 29
-        },
-        {
-            "Dialog": 157
-        },
-        {
-            "Dialog": 30
-        },
-        {
-            "Dialog": 158
-        },
-        {
-            "Dialog": 31
-        },
-        {
-            "Dialog": 32
-        },
-        {
-            "Dialog": 160
-        },
-        {
-            "Dialog": 34
-        },
-        {
-            "Dialog": 167
-        },
-        {
-            "Dialog": 168
-        },
-        {
-            "Dialog": 41
-        },
-        {
-            "Dialog": 170
-        },
-        {
-            "Dialog": 50
-        },
-        {
-            "Dialog": 52
-        },
-        {
-            "Dialog": 60
-        },
-        {
-            "Dialog": 64
-        },
-        {
-            "Dialog": 71
-        },
-        {
-            "Dialog": 80
-        },
-        {
-            "Dialog": 81
-        },
-        {
-            "Dialog": 88
-        },
-        {
-            "Dialog": 99
-        },
-        {
-            "Dialog": 100
-        },
-        {
-            "Dialog": 103
-        },
-        {
-            "Dialog": 104
-        },
-        {
-            "Dialog": 105
-        },
-        {
-            "Dialog": 106
-        },
-        {
-            "Dialog": 109
-        },
-        {
-            "Dialog": 127
-        }
     ]
 }

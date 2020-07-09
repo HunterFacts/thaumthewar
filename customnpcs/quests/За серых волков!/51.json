@@ -8,11 +8,11 @@
     "Title": "Неволя касты",
     "Text": "Один из людей светлой касты должен купить амулет для группировки. Цель убить всех на той встречи. После принести амулет Дереку.",
     "QuestFactionPoints": {
-        "DecreaseFaction1Points": 0b,
+        "DecreaseFaction1Points": 1b,
         "OptionFaction2Points": 100,
-        "OptionFactions1": -1,
+        "OptionFactions1": 16,
         "OptionFactions2": -1,
-        "OptionFaction1Points": 100,
+        "OptionFaction1Points": 300,
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1515936148476L,
+        "TimePast": 1594224097986L,
         "Time": 0L,
         "Subject": ""
     },

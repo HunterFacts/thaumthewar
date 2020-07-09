@@ -3,6 +3,16 @@
     "AvailabilityQuestId": -1,
     "Options": [
         {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 291,
+                "Title": "Я прочел письмо, которое ты отправил",
+                "DialogColor": 7858511,
+                "OptionType": 1
+            }
+        },
+        {
             "OptionSlot": 2,
             "Option": {
                 "DialogCommand": "",
@@ -87,7 +97,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1559844864466L,
+        "TimePast": 1594300857690L,
         "Time": 0L,
         "Subject": ""
     }

@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Бедроковый скелет",
-    "NextQuestId": -1,
+    "NextQuestId": 76,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1560079357086L,
+        "TimePast": 1594302181918L,
         "Time": 0L,
         "Subject": ""
     },
@@ -56,5 +56,5 @@
     },
     "LeaveItems": 1b,
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Добраться до модеуса и попытаться ему все объяснить"
 }

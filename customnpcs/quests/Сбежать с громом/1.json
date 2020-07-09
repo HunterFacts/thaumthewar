@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Отдать грому красную пыль.",
-    "Text": "Отдать грому красную пыль в сундуке.",
+    "Text": "Гром сказал, что сможет помочь выбрать отсюда. Для этого ему нужно отдать красную пыль. Она должна лежать в ящике неподалеку.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1560094669276L,
+        "TimePast": 1594142455199L,
         "Time": 0L,
         "Subject": ""
     },

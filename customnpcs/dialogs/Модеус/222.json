@@ -82,7 +82,7 @@
     "OptionFaction2Points": 100,
     "DialogText": "Что-то ещё?",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest3Id": 78,
     "AvailabilityQuest2Id": 76,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
@@ -97,7 +97,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1569139305120L,
+        "TimePast": 1594302730849L,
         "Time": 0L,
         "Subject": ""
     }

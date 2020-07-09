@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Выбраться",
-    "Text": "",
+    "Text": "Гром смог открыть тебе дверь. Отдай ему бумажку и вперед на свободу из этого бандитского лагеря!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1560094668779L,
+        "TimePast": 1594142496650L,
         "Time": 0L,
         "Subject": ""
     },
@@ -37,6 +37,6 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": "3. Найти снежное королевство.",
+    "NextQuestTitle": "Найти снежное королевство.",
     "QuestLocation": "1mest"
 }

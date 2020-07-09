@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Добраться до места",
-    "Text": "Нужно будет воспользоваться услугами Маркусами и добраться до места, где меня нашли без сознания.",
+    "Text": "Мерагон указал мне путь, где они меня нашли. Если идти по зелёным огонькам, то можно найти дорогу.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1511443001560L,
+        "TimePast": 1594145307286L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,5 +38,5 @@
     },
     "CompleteText": "",
     "NextQuestTitle": "Принести свиток Мерагону",
-    "QuestLocation": "Место_где_тебя_нашли"
+    "QuestLocation": "deathzone"
 }

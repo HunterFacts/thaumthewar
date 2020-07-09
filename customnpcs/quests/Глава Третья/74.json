@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Таинственный старец",
-    "NextQuestId": -1,
+    "NextQuestId": 75,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1560077906538L,
+        "TimePast": 1594301398659L,
         "Time": 0L,
         "Subject": ""
     },
@@ -37,6 +37,6 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": "",
+    "NextQuestTitle": "Зачистить логово воров и найти записки",
     "QuestLocation": "Подземный храм бедроковой пустоши"
 }

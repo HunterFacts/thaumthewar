@@ -1,11 +1,11 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 74,
     "Options": [
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 3,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -22,7 +22,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "New",
+    "DialogTitle": "ТС 4.1 Я прочел письмо",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "",
+    "DialogText": "Да, у меня получилось. Дверь в храм под моим домом поддалась ключу, который я сделал из тех бедроковых слитков. Будь там осторожен! Вход находится у меня в подвале.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1511442681950L,
+        "TimePast": 1594300622894L,
         "Time": 0L,
         "Subject": ""
     }

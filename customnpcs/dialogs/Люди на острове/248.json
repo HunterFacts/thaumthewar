@@ -38,7 +38,7 @@
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": 253,
+    "AvailabilityDialogId": 251,
     "OptionFaction2Points": 100,
     "DialogText": "Долго же ты до сюда добирался! Ну да ладно, как путь?",
     "AvailabilityQuest4Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1559844518319L,
+        "TimePast": 1594300867593L,
         "Time": 0L,
         "Subject": ""
     }
