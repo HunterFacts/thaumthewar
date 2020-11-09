@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Слева от меня в казармах стоит ложа короля, тебе к нему. Справа находиться остальная часть королевства. А если тебе нужны простые задания, то можешь спросить у меня...",
+    "DialogText": "Слева от меня в казармах стоит ложа короля, тебе к нему. Справа находиться остальная часть королевства.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

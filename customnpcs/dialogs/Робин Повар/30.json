@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 31,
-                "Title": "О культе я не слышал",
+                "Title": "О каком багровом культе?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Да пойми, у тебя есть сила и нашему ордену нужна твоя помощь. Слышал ли ты о багровом культе?",
+    "DialogText": "Пойми, не мы тебя выбрали великим воином и магом. Но именно нашему ордену нужна твоя помощь. Слышал ли ты о багровом культе?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

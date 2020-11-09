@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 13,
-                "Title": "В каком именно месте?",
+                "Title": "А можешь сказать где конкретно?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Я же сказал, в искажении.",
+    "DialogText": "Я и говорю, ты лежал в искаженных землях.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
