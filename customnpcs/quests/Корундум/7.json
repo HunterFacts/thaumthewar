@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Поговорить с Командиром корабля",
-    "Text": "Нужно поговорить с крюгом, он на своей посудине.",
+    "Text": "Нужно поговорить с крюгом, он на своей посудине.(Локация: Пирс, корабль)",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1499793856398L,
+        "TimePast": 1606057977333L,
         "Time": 0L,
         "Subject": ""
     },

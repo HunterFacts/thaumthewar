@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Найти бармена",
-    "Text": "Нужно найти бармена, говорят, он сидит на пирсе, туда можно пройти с проводником.",
+    "Text": "Нужно найти бармена, говорят, он сидит на пирсе, туда можно пройти с проводником.(Проводник: Проводник/Локация: Пирс)",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1477666630835L,
+        "TimePast": 1606057860834L,
         "Time": 0L,
         "Subject": ""
     },

@@ -13,7 +13,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 17,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 24,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Помоги нам, найди этот алтарь и открой путь лучу. Попасть в пещеры можешь из подсобки которая находится за дверью взади меня.",
+    "DialogText": "Помоги нам, найди этот алтарь и открой путь лучу. Попасть в пещеры cможешь из подсобки. Дверь в подсобку взади меня.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1498334255822L,
+        "TimePast": 1605476063793L,
         "Time": 0L,
         "Subject": ""
     }

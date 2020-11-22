@@ -7,7 +7,7 @@
     "QuestRepeat": 3,
     "QuestCompletion": 1,
     "Title": "Спуститься вниз",
-    "Text": "Кто-то закрыл доступ к лифту, нужно спуститься вниз через шахты и открыть дверь к лифту.",
+    "Text": "Кто-то закрыл доступ к лифту, нужно спуститься вниз через шахты и открыть дверь к лифту.(Локация: Лагерь диггеров у обрыва)",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1537031972624L,
+        "TimePast": 1606057812134L,
         "Time": 0L,
         "Subject": ""
     },

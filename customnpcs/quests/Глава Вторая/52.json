@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Деньги для транспорта",
-    "Text": "Для того, чтобы использовать услуги ивора, нужно заплатить ему золотую монету.",
+    "Text": "Для того, чтобы использовать услуги ивора, нужно заплатить ему золотую монету.(Локация: Город Кастмании, Мельница)",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525185328999L,
+        "TimePast": 1606057814040L,
         "Time": 0L,
         "Subject": ""
     },

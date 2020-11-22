@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 1b,
     "Title": "Найти ингредиенты для Таумкоктейля",
-    "Text": "Чтобы получить Таумкоктейль, мне нужно принести кое-какие ингредиенты для него.",
+    "Text": "Чтобы получить Таумкоктейль, мне нужно принести кое-какие ингредиенты для него.(Локация: Пирс, таумбар)",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1498544442181L,
+        "TimePast": 1606054923186L,
         "Time": 0L,
         "Subject": ""
     },

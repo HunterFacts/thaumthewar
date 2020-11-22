@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Поговорить с Маркусом",
-    "Text": "Фредрик сказал поговорить с Маркусом, его главой стражи.",
+    "Text": "Фредрик сказал поговорить с Маркусом, его главой стражи.(Локация: Снежное королевство - рядом с ложей короля)",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1511442997654L,
+        "TimePast": 1606056311033L,
         "Time": 0L,
         "Subject": ""
     },

@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Найти что-нибудь необычное.",
-    "Text": "Крюг сказал, если я найду что-то необычное в шахтах, сказать ему.",
+    "Text": "Крюг сказал, если я найду что-то необычное в шахтах, сказать ему.(Локация: Корундовый остров)",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503480835959L,
+        "TimePast": 1606057980533L,
         "Time": 0L,
         "Subject": ""
     },

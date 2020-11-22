@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 27,
     "Options": [
         {
             "OptionSlot": 0,
@@ -15,10 +15,10 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 2,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
+    "AvailabilityQuest2": 4,
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
     "ModRev": 17,
@@ -43,7 +43,7 @@
     "DialogText": "Добрейший вечерочек, а хотя и не вечерочек. Я уже незнаю, что творится на улице. Сижу тут в этой чертовой пещере.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
+    "AvailabilityQuest2Id": 27,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1498578258634L,
+        "TimePast": 1605184534271L,
         "Time": 0L,
         "Subject": ""
     }
