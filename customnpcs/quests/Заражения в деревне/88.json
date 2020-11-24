@@ -1,0 +1,153 @@
+{
+    "CompleterNpc": "Эльдрен",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Рассказать всё Священнику Эльдрену",
+    "Text": "Нужно рассказать о нашей победе священнику Эльдрену. Он будет в восторге!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 295,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 17,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1606074816405L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcMithrilChest",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 0s
+                        },
+                        {
+                            "lvl": 3s,
+                            "id": 34s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 7s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Бывший нагрудник священника"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcMithrilLegs",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 0s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Бывшие штаны священника "
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "customnpcs:npcMithrilBoots",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 2s
+                        },
+                        {
+                            "lvl": 3s,
+                            "id": 1s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Бывшие ботинки священника"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "testenvironmentmod:Sw4",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 34s
+                        },
+                        {
+                            "lvl": 3s,
+                            "id": 16s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "customnpcs:npcMithrilHead",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 0s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Бывший шлем священника"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "",
+    "NextQuestTitle": ""
+}

@@ -1,10 +1,11 @@
 {
     "CompleterNpc": "Зараженный",
-    "NextQuestId": -1,
+    "NextQuestId": 87,
+    "QuestLocation3": "",
     "RandomReward": 0b,
+    "QuestLocation2": "",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
-    "IgnoreNBT": 0b,
     "Title": "Взорвать храм!",
     "Text": "Нужно подготовиться, местный узник откроет вход в главный зал, в нем нужно будет опустить три рычага, тем самым сдетонирует бомба высого масштаба. Последний рычаг нужно будет опустить сидя на вагонетки, чтобы избежать смерти от взрыва.",
     "QuestFactionPoints": {
@@ -18,7 +19,7 @@
     "RewardExp": 0,
     "QuestCommand": "",
     "ModRev": 17,
-    "Type": 0,
+    "Type": 3,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -27,20 +28,15 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1606056179434L,
+        "TimePast": 1606074818606L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
         ]
     },
-    "Items": {
-        "NpcMiscInv": [
-        ]
-    },
-    "LeaveItems": 0b,
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Рассказать все магу Мерену",
+    "QuestLocation": "dirtbomb"
 }

@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": 47,
+    "AvailabilityQuestId": 95,
     "Options": [
         {
             "OptionSlot": 0,
@@ -15,12 +15,12 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 4,
+    "AvailabilityQuest": 2,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 2,
     "AvailabilityQuest3": 1,
-    "AvailabilityQuest4": 0,
+    "AvailabilityQuest4": 2,
     "ModRev": 17,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
@@ -41,7 +41,7 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "Так, кто его сюда пустил! Ты кто вообще?",
-    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest4Id": 53,
     "AvailabilityQuest3Id": 45,
     "AvailabilityQuest2Id": 47,
     "AvailabilityDialog2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1517568311571L,
+        "TimePast": 1606245573014L,
         "Time": 0L,
         "Subject": ""
     }

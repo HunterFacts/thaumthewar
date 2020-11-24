@@ -1,0 +1,134 @@
+{
+    "CompleterNpc": "Жительница зараженного участка",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 1b,
+    "Title": "Помочь зараженному",
+    "Text": "Муж некой Миры из зараженного участка города подвергся заражению и почти что стал монстром. Мира, благодаря своей магии смогла задержать болезнь. Она просить помощи и ей нужно следующие ингредиенты: 2 пузырька bestia, 5 каплей perditio и 1 алмаз, чтобы она смогла снять проклятие с мужа.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 500,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "Мира",
+        "BeenRead": 0b,
+        "Message": {
+            "pages": [
+                "Спасибо большое! Моему мужу уже гораздо легче! Я покапалась в своих старых магических книгах. Нашла там оторванные фрагменты знаний. Держи!"
+            ]
+        },
+        "MailItems": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:knowledge_fragment",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "thaumcraft:knowledge_fragment",
+                "Count": 4b,
+                "Damage": 0s
+            }
+        ],
+        "MailQuest": -1,
+        "TimePast": 1606219983874L,
+        "Time": 0L,
+        "Subject": "Моему мужу уже легче"
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:focus_pech",
+                "Count": 1b,
+                "tag": {
+                    "upgrade": [
+                        {
+                            "id": 0s
+                        },
+                        {
+                            "id": 0s
+                        },
+                        {
+                            "id": 0s
+                        },
+                        {
+                            "id": 7s
+                        },
+                        {
+                            "id": 20s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 3b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "thaumcraft:wispy_essence",
+                "Count": 5b,
+                "tag": {
+                    "RepairCost": 1,
+                    "Aspects": [
+                        {
+                            "amount": 2,
+                            "key": "perditio"
+                        }
+                    ],
+                    "display": {
+                        "Name": "Капля эссенции perditio"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "thaumcraft:phial",
+                "Count": 2b,
+                "tag": {
+                    "RepairCost": 1,
+                    "Aspects": [
+                        {
+                            "amount": 8,
+                            "key": "bestia"
+                        }
+                    ],
+                    "display": {
+                        "Name": "Пузырёк эссенции bestia"
+                    }
+                },
+                "Damage": 1s
+            },
+            {
+                "Slot": 2b,
+                "id": "minecraft:diamond",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Спасибо! Спасибо! Я не ожидала такой помощи. Держи, это все что есть у нас. И забери мой набалдашник, он очень ценный!",
+    "NextQuestTitle": ""
+}

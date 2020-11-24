@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 55,
     "Options": [
         {
             "OptionSlot": 0,
@@ -15,11 +15,11 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 4,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
+    "AvailabilityQuest2": 2,
+    "AvailabilityQuest3": 2,
     "AvailabilityQuest4": 0,
     "ModRev": 17,
     "DecreaseFaction1Points": 0b,
@@ -42,8 +42,8 @@
     "OptionFaction2Points": 100,
     "DialogText": "Мне доложили, что ты справился с заданием и очень хорошо. Скажи, что тобой движет и зачем ты хочешь к нам вступить?",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
+    "AvailabilityQuest3Id": 47,
+    "AvailabilityQuest2Id": 55,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1515935967888L,
+        "TimePast": 1606241170863L,
         "Time": 0L,
         "Subject": ""
     }

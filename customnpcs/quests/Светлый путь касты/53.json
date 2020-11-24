@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Достать сумку из колодца",
-    "Text": "",
+    "Text": "В синей земле около конюшней находиться колодец. Нужно прыгнуть в него и достать сумку. Чтобы попасть на синие  земли, нужно поговорить с командиром стражи у мельницы.(Локация: Зараженная часть города, колодец у конюшни)",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,20 +27,56 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1515935945833L,
+        "TimePast": 1606242859414L,
         "Time": 0L,
         "Subject": ""
     },
     "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcNinjaChest",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 0s
+                        }
+                    ],
+                    "RepairCost": 3,
+                    "display": {
+                        "Name": "Улучшенный нагрудник касты"
+                    }
+                },
+                "Damage": 0s
+            }
         ]
     },
     "Items": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcSatchel",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Сумка с сокровищами"
+                    }
+                },
+                "Damage": 0s
+            }
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "",
+    "CompleteText": "А ты молодец. Умеешь выполнять то, что тебя просят. Хорошо, ты принят в нашу светлую касту! Можешь войти в наш дом, с тобой хочет поговорить главный наш (второй этаж).",
     "NextQuestTitle": ""
 }

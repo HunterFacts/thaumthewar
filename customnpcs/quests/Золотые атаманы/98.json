@@ -1,0 +1,74 @@
+{
+    "CompleterNpc": "Бен",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Добыть свиток неомантики",
+    "Text": "Бен сказал, что чтобы нам победить в гонке группировок, то нужно добыть свиток неоматики. Он лежит в шахтах Кастмании, туда может отвезти Ивор.(Проводник: Ивор / Локация: лагерь у шахт кастмании)",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "Бен",
+        "MailQuestTitle": "Уничтожить серых волков",
+        "BeenRead": 0b,
+        "Message": {
+            "pages": [
+                "На встречи нет времени! На нас нападают другие группировки! Срочно уничтожь серых волков! Найди их дом и убей там всех! Если заберешь их драгоценный каменд волков, то они сдадутся!"
+            ]
+        },
+        "MailItems": [
+        ],
+        "MailQuest": 100,
+        "TimePast": 1606245163365L,
+        "Time": 0L,
+        "Subject": "Пора атаковать!"
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 10b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcAncientScroll",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 5s,
+                            "id": 48s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Свиток неоматики"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Превосходно! Отдам свиток нашему боссу. Он отправит тебе письмо, после встречи.",
+    "NextQuestTitle": ""
+}

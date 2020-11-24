@@ -3,6 +3,9 @@
     ],
     "TransportData": [
         {
+            "Transport": 34
+        },
+        {
             "Transport": 29
         },
         {
@@ -69,6 +72,10 @@
         {
             "Points": 600,
             "Faction": 20
+        },
+        {
+            "Points": 50,
+            "Faction": 21
         }
     ],
     "BankData": [
@@ -89,6 +96,18 @@
     "DialogData": [
         {
             "Dialog": 80
+        },
+        {
+            "Dialog": 307
+        },
+        {
+            "Dialog": 301
+        },
+        {
+            "Dialog": 302
+        },
+        {
+            "Dialog": 303
         }
     ]
 }

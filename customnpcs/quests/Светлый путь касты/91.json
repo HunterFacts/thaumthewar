@@ -1,0 +1,88 @@
+{
+    "CompleterNpc": "Боец светлой касты",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Достать свиток неоматики",
+    "Text": "Рон сказал, что чтобы нам победить в гонке группировок, то нужно добыть свиток неоматики. Он лежит в шахтах Кастмании, туда может отвезти Ивор.(Проводник: Ивор / Локация: лагерь у шахт кастмании)",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "Рон",
+        "MailQuestTitle": "Разгром атаманного общества",
+        "BeenRead": 0b,
+        "Message": {
+            "pages": [
+                "Все плохо, прочти книгу, что я отправил"
+            ]
+        },
+        "MailItems": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:written_book",
+                "Count": 1b,
+                "tag": {
+                    "pages": [
+                        "\"Все плохо. На встрече произошел конфуз. Группировки узнали, что мы хотим уничтожить их и работать с королем. На нас готовят нападение, но мы сделаем это первыми! Начнем с атаманов. Их основная база находиться взади их бара. Там потайной вход, войти...\"",
+                        "\"... туда можно через зараженные земли или если обойти дом волков. Уничтожь всех атаманов и найди их кулон. А потом жди письмо по поводу волков. Удачи!\""
+                    ],
+                    "author": "HunterFacts",
+                    "title": "Что произошло"
+                },
+                "Damage": 0s
+            }
+        ],
+        "MailQuest": 92,
+        "TimePast": 1606244135164L,
+        "Time": 0L,
+        "Subject": "Все плохо!"
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 7b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcAncientScroll",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 5s,
+                            "id": 48s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Свиток неоматики"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Ты молодец! Я схожу на сходку группировок и отправлю тебе письмо, как вернусь!",
+    "NextQuestTitle": ""
+}

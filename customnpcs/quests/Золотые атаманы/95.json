@@ -1,0 +1,94 @@
+{
+    "CompleterNpc": "Бен",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Вытащить сумку из колодца",
+    "Text": "Бен, представитель золотых атаманов попросил меня вытащить сумку из колодца, что в зараженных землях. Попасть туда можно через конюшню. Доступ может дать Ивор. (Локация: Зараженная часть города, колодец около конюшни)",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1606244143615L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcGoldenDagger",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 34s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 19s
+                        },
+                        {
+                            "lvl": 2s,
+                            "id": 20s
+                        },
+                        {
+                            "lvl": 5s,
+                            "id": 16s
+                        }
+                    ],
+                    "RepairCost": 63,
+                    "display": {
+                        "Name": "Золотой Кинжал атаманов"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcSatchel",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Сумка с сокровищами"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Ты принят! Держи награду, ты её заслужил. Главный наш не очень болтливый, поэтому все задания через меня. Расскажи, зачем к нам пришел.",
+    "NextQuestTitle": ""
+}

@@ -1,0 +1,75 @@
+{
+    "CompleterNpc": "Рон",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "IgnoreNBT": 0b,
+    "Title": "Разгром атаманного общества",
+    "Text": "Рон написал в книге, что группировки собираются напасть на нас. Он решил, что мы ударим в ответ и отправил меня уничтожиться атаманов. Нужно зачистить их логово и забрать кулон. Их логово находиться за их баром. Попасть туда можно через зараженные земли или если обойти дом серых волков.(Локация: Город Кастмании, логово атаманов)",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 17,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "Рон",
+        "MailQuestTitle": "Уничтожить серых волков",
+        "BeenRead": 0b,
+        "Message": {
+            "pages": [
+                "Я наслышан о твоей победе над растаманами. Осталось разнести серых волков. Их база находится под их домом. Войти туда можно через колодец около их дома. Он ведет в их логово! Уничтожь их всех и принеси мне их драгоценный камень! И считай, что мы согласны",
+                "ну условия короля."
+            ]
+        },
+        "MailItems": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ],
+        "MailQuest": 93,
+        "TimePast": 1606244844265L,
+        "Time": 0L,
+        "Subject": "Давай в том же духе!"
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcPendant",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 1s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Name": "Кулон атамана"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Отлично, теперь нужно дождаться второе письмо от Рона.",
+    "NextQuestTitle": ""
+}

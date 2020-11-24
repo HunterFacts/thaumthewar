@@ -13,7 +13,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 17,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 55,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ах, вот оно что. Ну это мы с радостью. Тогда давай следующие задание. Нужно первым делом снести золотых атаманов. У них есть свой бар в городе. Нанести ему визит и хорошенько надавай всем. Принесешь мне 5 амулетов атаманов.",
+    "DialogText": "Ах, вот оно что. Ну это мы с радостью. Тогда давай следующие задание. Нужно первым делом снести золотых атаманов. У них есть свой бар в городе. Нанеси им визит и хорошенько надавай всем. Принесешь мне 5 амулетов атаманов.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1515935973228L,
+        "TimePast": 1606223396071L,
         "Time": 0L,
         "Subject": ""
     }

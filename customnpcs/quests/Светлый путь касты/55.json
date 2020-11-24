@@ -6,14 +6,14 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Разгром атаманов",
-    "Text": "Бар атаманов находиться в городе, найди его и уничтожь его обитателей.",
+    "Text": "Первым делом нужно пошатнуть золотых атаманов. Нужно нанести удар по их бару золотых атаманов. У каждого обитателя бара есть амулет атамана. Нужно принести 5 штук таких Рону.",
     "QuestFactionPoints": {
-        "DecreaseFaction1Points": 0b,
-        "OptionFaction2Points": 100,
-        "OptionFactions1": -1,
-        "OptionFactions2": -1,
-        "OptionFaction1Points": 100,
-        "DecreaseFaction2Points": 0b
+        "DecreaseFaction1Points": 1b,
+        "OptionFaction2Points": 500,
+        "OptionFactions1": 14,
+        "OptionFactions2": 15,
+        "OptionFaction1Points": 500,
+        "DecreaseFaction2Points": 1b
     },
     "RewardExp": 0,
     "QuestCommand": "",
@@ -27,19 +27,43 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1515936018685L,
+        "TimePast": 1606241892163L,
         "Time": 0L,
         "Subject": ""
     },
     "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcIronBroadsword",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2s,
+                            "id": 16s
+                        }
+                    ],
+                    "RepairCost": 3,
+                    "display": {
+                        "Name": "Улучшенный палаш светлой касты"
+                    }
+                },
+                "Damage": 0s
+            }
         ]
     },
     "Items": {
         "NpcMiscInv": [
             {
-                "Slot": 2b,
+                "Slot": 0b,
                 "id": "customnpcs:npcLocket",
                 "Count": 5b,
                 "tag": {
@@ -53,6 +77,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "",
+    "CompleteText": "Молодец. Теперь нужно еще кое-что обсудить.",
     "NextQuestTitle": ""
 }
