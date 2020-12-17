@@ -8,11 +8,11 @@
     "Title": "Достать сумку из колодца",
     "Text": "В синей земле около конюшней находиться колодец. Нужно прыгнуть в него и достать сумку. Чтобы попасть на синие  земли, нужно поговорить с командиром стражи у мельницы.(Локация: Зараженная часть города, колодец у конюшни)",
     "QuestFactionPoints": {
-        "DecreaseFaction1Points": 0b,
+        "DecreaseFaction1Points": 1b,
         "OptionFaction2Points": 100,
-        "OptionFactions1": -1,
+        "OptionFactions1": 15,
         "OptionFactions2": -1,
-        "OptionFaction1Points": 100,
+        "OptionFaction1Points": 300,
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1606242859414L,
+        "TimePast": 1606247175339L,
         "Time": 0L,
         "Subject": ""
     },

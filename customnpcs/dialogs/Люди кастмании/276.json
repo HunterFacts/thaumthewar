@@ -2,6 +2,16 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 315,
+                "Title": "Договорились, я поищу там что-нибудь, но как попасть в твоё ответвление?",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
@@ -20,7 +30,7 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
+    "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Маг Мерен",
     "AvailabilityDialog": 0,
@@ -30,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Вторая часть моей лаборатории веде к некому альтарю. Принеси мне оттуда что-нибудь, чтобы я продолжил свои исследования.",
+    "DialogText": "Помимо основной части моей лаборатории, я попросил построить еще второй ответвление. Оно ведет прямо к алтарю, который состоит из каких-то зараженных камней. Я думаю, что это камни связаны с заражением. Алтарь содержит сундук из обсидиана, я думаю содержимое этого сундука содержит то, что поможет мне с исследованием. Я не смог осмотреть даже алтарь, там везде эти фиолетоворотые. Если ты доберешься до сундука и притащишь от туда то, что мне поможет, мы сможем разгадать, что же там происходит то на самом деле.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1580037513525L,
+        "TimePast": 1608127206415L,
         "Time": 0L,
         "Subject": ""
     }

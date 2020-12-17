@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Боец светлой касты",
+    "CompleterNpc": "Рон",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -8,12 +8,12 @@
     "Title": "Достать свиток неоматики",
     "Text": "Рон сказал, что чтобы нам победить в гонке группировок, то нужно добыть свиток неоматики. Он лежит в шахтах Кастмании, туда может отвезти Ивор.(Проводник: Ивор / Локация: лагерь у шахт кастмании)",
     "QuestFactionPoints": {
-        "DecreaseFaction1Points": 0b,
-        "OptionFaction2Points": 100,
-        "OptionFactions1": -1,
-        "OptionFactions2": -1,
-        "OptionFaction1Points": 100,
-        "DecreaseFaction2Points": 0b
+        "DecreaseFaction1Points": 1b,
+        "OptionFaction2Points": 400,
+        "OptionFactions1": 15,
+        "OptionFactions2": 14,
+        "OptionFaction1Points": 400,
+        "DecreaseFaction2Points": 1b
     },
     "RewardExp": 0,
     "QuestCommand": "",
@@ -45,7 +45,7 @@
             }
         ],
         "MailQuest": 92,
-        "TimePast": 1606244135164L,
+        "TimePast": 1606247352674L,
         "Time": 0L,
         "Subject": "Все плохо!"
     },

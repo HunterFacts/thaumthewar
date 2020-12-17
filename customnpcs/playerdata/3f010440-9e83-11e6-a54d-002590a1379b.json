@@ -1,0 +1,61 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "FactionData": [
+        {
+            "Points": 600,
+            "Faction": 16
+        },
+        {
+            "Points": 1000,
+            "Faction": 3
+        },
+        {
+            "Points": 50,
+            "Faction": 19
+        },
+        {
+            "Points": 600,
+            "Faction": 20
+        },
+        {
+            "Points": 1000,
+            "Faction": 4
+        },
+        {
+            "Points": 1,
+            "Faction": 6
+        },
+        {
+            "Points": 1,
+            "Faction": 7
+        },
+        {
+            "Points": 1,
+            "Faction": 9
+        },
+        {
+            "Points": 600,
+            "Faction": 15
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "HunterFacts",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "3f010440-9e83-11e6-a54d-002590a1379b",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ]
+}
