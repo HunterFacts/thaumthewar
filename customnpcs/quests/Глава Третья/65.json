@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Модеус",
-    "NextQuestId": -1,
+    "NextQuestId": 101,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1560093610000L,
+        "TimePast": 1608235345526L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,5 +41,5 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Вернуться к главнокомандующему"
 }
