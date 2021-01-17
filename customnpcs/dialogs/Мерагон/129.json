@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 102,
     "Options": [
         {
             "OptionSlot": 0,
@@ -35,7 +35,7 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 4,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -77,7 +77,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1594145072784L,
+        "TimePast": 1610912956880L,
         "Time": 0L,
         "Subject": ""
     }

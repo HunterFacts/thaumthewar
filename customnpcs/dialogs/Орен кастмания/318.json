@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Вау, я не ожидал такого, просто здорово! Я сразу же отправлю их к Мерену! Сходи обрадуй его!",
+    "DialogText": "Вау, я не ожидал такого, просто здорово! Я сразу же отправлю их к Мерагону! Сходи обрадуй его!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1608235292625L,
+        "TimePast": 1610912853978L,
         "Time": 0L,
         "Subject": ""
     }

@@ -42,6 +42,10 @@
         },
         {
             "Points": 600,
+            "Faction": 14
+        },
+        {
+            "Points": 600,
             "Faction": 15
         }
     ],
