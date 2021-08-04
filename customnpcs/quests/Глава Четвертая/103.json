@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "Мартинс",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Поговорить с Мартинсом",
+    "Text": "Мерагон смог расшифровать свиток и дал мне наводку на древний храм, где по его мнению может находиться этот самый меч. Он уже отправил туда своих людей и сказал, как я буду готов, то поговорить с ним и он отправит в снежную долину и меня. В ней мне нужно будет найти руководителя экспедиции и расспросить его о текущей ситуации.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 330,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 17,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1611084308660L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "",
+    "NextQuestTitle": ""
+}

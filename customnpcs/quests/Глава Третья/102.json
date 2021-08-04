@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Мерагон",
-    "NextQuestId": -1,
+    "NextQuestId": 103,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1610912819585L,
+        "TimePast": 1611084121609L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,5 +41,5 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Поговорить с Мартинсом"
 }

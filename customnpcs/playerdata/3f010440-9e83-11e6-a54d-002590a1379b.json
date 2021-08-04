@@ -2,31 +2,29 @@
     "ItemGiverChained": [
     ],
     "TransportData": [
+        {
+            "Transport": 38
+        },
+        {
+            "Transport": 29
+        }
     ],
     "FactionData": [
         {
-            "Points": 600,
-            "Faction": 16
-        },
-        {
-            "Points": 800,
-            "Faction": 17
+            "Points": 1,
+            "Faction": 2
         },
         {
             "Points": 1000,
             "Faction": 3
         },
         {
-            "Points": 50,
-            "Faction": 19
-        },
-        {
-            "Points": 600,
-            "Faction": 20
-        },
-        {
             "Points": 1000,
             "Faction": 4
+        },
+        {
+            "Points": 1,
+            "Faction": 5
         },
         {
             "Points": 1,
@@ -35,6 +33,10 @@
         {
             "Points": 1,
             "Faction": 7
+        },
+        {
+            "Points": 1,
+            "Faction": 8
         },
         {
             "Points": 1,
@@ -47,6 +49,26 @@
         {
             "Points": 600,
             "Faction": 15
+        },
+        {
+            "Points": 600,
+            "Faction": 16
+        },
+        {
+            "Points": 800,
+            "Faction": 17
+        },
+        {
+            "Points": 550,
+            "Faction": 18
+        },
+        {
+            "Points": 50,
+            "Faction": 19
+        },
+        {
+            "Points": 600,
+            "Faction": 20
         }
     ],
     "BankData": [
@@ -65,5 +87,8 @@
     "UUID": "3f010440-9e83-11e6-a54d-002590a1379b",
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 127
+        }
     ]
 }
