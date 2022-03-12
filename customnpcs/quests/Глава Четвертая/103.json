@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Мартинс",
-    "NextQuestId": -1,
+    "NextQuestId": 105,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1611084308660L,
+        "TimePast": 1647100061081L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,5 +41,5 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Добратся до группы"
 }

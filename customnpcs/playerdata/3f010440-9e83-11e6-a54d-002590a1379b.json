@@ -6,6 +6,9 @@
             "Transport": 38
         },
         {
+            "Transport": 39
+        },
+        {
             "Transport": 29
         },
         {
@@ -98,6 +101,9 @@
     "UUID": "3f010440-9e83-11e6-a54d-002590a1379b",
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 339
+        },
         {
             "Dialog": 127
         }
