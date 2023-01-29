@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Треллони",
-    "NextQuestId": -1,
+    "NextQuestId": 111,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1647101255981L,
+        "TimePast": 1647110475849L,
         "Time": 0L,
         "Subject": ""
     },
@@ -37,6 +37,6 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": "",
+    "NextQuestTitle": "Поговорить с Треллони",
     "QuestLocation": "bashen4"
 }

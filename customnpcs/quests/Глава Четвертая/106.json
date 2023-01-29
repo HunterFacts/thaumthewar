@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Рендал",
-    "NextQuestId": -1,
+    "NextQuestId": 107,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1647100069180L,
+        "TimePast": 1647110466649L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,5 +41,5 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Очистить первую башню"
 }

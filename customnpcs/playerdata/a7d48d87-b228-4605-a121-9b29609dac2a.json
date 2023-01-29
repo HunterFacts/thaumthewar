@@ -1,0 +1,65 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "FactionData": [
+        {
+            "Points": 600,
+            "Faction": 16
+        },
+        {
+            "Points": 550,
+            "Faction": 18
+        },
+        {
+            "Points": 1000,
+            "Faction": 3
+        },
+        {
+            "Points": 1000,
+            "Faction": 4
+        },
+        {
+            "Points": 600,
+            "Faction": 20
+        },
+        {
+            "Points": 1,
+            "Faction": 5
+        },
+        {
+            "Points": 1,
+            "Faction": 7
+        },
+        {
+            "Points": 1,
+            "Faction": 8
+        },
+        {
+            "Points": 600,
+            "Faction": 14
+        },
+        {
+            "Points": 600,
+            "Faction": 15
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Hypecoder",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "a7d48d87-b228-4605-a121-9b29609dac2a",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ]
+}
