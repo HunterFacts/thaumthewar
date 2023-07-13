@@ -2,81 +2,51 @@
     "TraderCurrency": {
         "NpcMiscInv": [
             {
-                "Slot": 32b,
-                "id": "customnpcs:npcCoinGold",
-                "Count": 3b,
+                "Slot": 33b,
+                "id": "customnpcs:npcCoinBronze",
+                "Count": 4b,
                 "Damage": 0s
             },
             {
-                "Slot": 33b,
-                "id": "customnpcs:npcCoinBronze",
+                "Slot": 18b,
+                "id": "customnpcs:npcCoinIron",
                 "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 34b,
                 "id": "customnpcs:npcCoinIron",
-                "Count": 24b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 35b,
-                "id": "customnpcs:npcCoinGold",
-                "Count": 5b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 18b,
-                "id": "customnpcs:npcCoinIron",
-                "Count": 2b,
+                "Count": 4b,
                 "Damage": 0s
             },
             {
                 "Slot": 19b,
                 "id": "customnpcs:npcCoinIron",
-                "Count": 4b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 20b,
-                "id": "customnpcs:npcCoinIron",
-                "Count": 2b,
+                "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 21b,
-                "id": "customnpcs:npcCoinGold",
-                "Count": 1b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 16b,
                 "Damage": 0s
             },
             {
                 "Slot": 22b,
                 "id": "customnpcs:npcCoinIron",
-                "Count": 16b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 23b,
-                "id": "customnpcs:npcCoinBronze",
-                "Count": 2b,
+                "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 24b,
                 "id": "customnpcs:npcCoinGold",
-                "Count": 5b,
+                "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 25b,
-                "id": "customnpcs:npcCoinBronze",
-                "Count": 16b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 26b,
                 "id": "customnpcs:npcCoinIron",
-                "Count": 6b,
+                "Count": 1b,
                 "Damage": 0s
             },
             {
@@ -87,14 +57,8 @@
             },
             {
                 "Slot": 28b,
-                "id": "customnpcs:npcCoinBronze",
-                "Count": 24b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 29b,
-                "id": "customnpcs:npcCoinGold",
-                "Count": 5b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 2b,
                 "Damage": 0s
             },
             {
@@ -106,7 +70,7 @@
             {
                 "Slot": 31b,
                 "id": "customnpcs:npcCoinIron",
-                "Count": 16b,
+                "Count": 4b,
                 "Damage": 0s
             }
         ]
@@ -122,14 +86,14 @@
                 "Damage": 0s
             },
             {
-                "Slot": 1b,
-                "id": "customnpcs:npcHammer",
+                "Slot": 16b,
+                "id": "customnpcs:npcBronzeIngot",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
-                "Slot": 2b,
-                "id": "customnpcs:npcBronzeIngot",
+                "Slot": 1b,
+                "id": "customnpcs:npcHammer",
                 "Count": 1b,
                 "Damage": 0s
             },
@@ -146,12 +110,6 @@
                 "Damage": 0s
             },
             {
-                "Slot": 5b,
-                "id": "minecraft:torch",
-                "Count": 4b,
-                "Damage": 0s
-            },
-            {
                 "Slot": 6b,
                 "id": "minecraft:diamond",
                 "Count": 1b,
@@ -160,13 +118,7 @@
             {
                 "Slot": 7b,
                 "id": "customnpcs:npcShuriken",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 8b,
-                "id": "mod_quiver:poison_arrow",
-                "Count": 1b,
+                "Count": 8b,
                 "Damage": 0s
             },
             {
@@ -178,21 +130,7 @@
             {
                 "Slot": 10b,
                 "id": "customnpcs:npcGiantShuriken",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 11b,
-                "id": "minecraft:enchanted_book",
-                "Count": 1b,
-                "tag": {
-                    "StoredEnchantments": [
-                        {
-                            "lvl": 5s,
-                            "id": 48s
-                        }
-                    ]
-                },
+                "Count": 8b,
                 "Damage": 0s
             },
             {
@@ -203,48 +141,14 @@
             },
             {
                 "Slot": 13b,
-                "id": "customnpcs:npcWoodenStaff",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 14b,
-                "id": "minecraft:enchanted_book",
-                "Count": 1b,
-                "tag": {
-                    "StoredEnchantments": [
-                        {
-                            "lvl": 2s,
-                            "id": 49s
-                        }
-                    ]
-                },
+                "id": "customnpcs:npcMana",
+                "Count": 64b,
                 "Damage": 0s
             },
             {
                 "Slot": 15b,
                 "id": "customnpcs:npcMana",
                 "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 16b,
-                "id": "customnpcs:npcBronzeStaff",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 17b,
-                "id": "minecraft:enchanted_book",
-                "Count": 1b,
-                "tag": {
-                    "StoredEnchantments": [
-                        {
-                            "lvl": 5s,
-                            "id": 16s
-                        }
-                    ]
-                },
                 "Damage": 0s
             }
         ]

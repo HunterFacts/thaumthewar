@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Король находиться в королевстве около барьера. Туда ведёт каменная дорога позади нашего дома.",
+    "DialogText": "Король находится по дороге от барьера в своём королевстве. Туда ведёт каменная дорога позади нашего лагеря.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1594220749880L,
+        "TimePast": 1675041331079L,
         "Time": 0L,
         "Subject": ""
     }

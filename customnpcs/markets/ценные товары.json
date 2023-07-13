@@ -4,13 +4,7 @@
             {
                 "Slot": 33b,
                 "id": "customnpcs:npcCoinDiamond",
-                "Count": 6b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 18b,
-                "id": "customnpcs:npcCoinDiamond",
-                "Count": 2b,
+                "Count": 1b,
                 "Damage": 0s
             },
             {
@@ -20,57 +14,81 @@
                 "Damage": 0s
             },
             {
-                "Slot": 19b,
-                "id": "customnpcs:npcCoinDiamond",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 21b,
+                "Slot": 18b,
                 "id": "customnpcs:npcCoinGold",
-                "Count": 48b,
+                "Count": 6b,
                 "Damage": 0s
             },
             {
-                "Slot": 22b,
-                "id": "customnpcs:npcCoinDiamond",
-                "Count": 24b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 24b,
+                "Slot": 19b,
                 "id": "customnpcs:npcCoinDiamond",
                 "Count": 8b,
                 "Damage": 0s
             },
             {
-                "Slot": 25b,
-                "id": "customnpcs:npcCoinDiamond",
+                "Slot": 20b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "customnpcs:npcCoinGold",
                 "Count": 6b,
                 "Damage": 0s
             },
             {
-                "Slot": 27b,
+                "Slot": 22b,
                 "id": "customnpcs:npcCoinGold",
-                "Count": 48b,
+                "Count": 8b,
                 "Damage": 0s
             },
             {
-                "Slot": 28b,
-                "id": "customnpcs:npcCoinDiamond",
-                "Count": 2b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 30b,
+                "Slot": 23b,
                 "id": "customnpcs:npcCoinGold",
                 "Count": 32b,
                 "Damage": 0s
             },
             {
-                "Slot": 31b,
-                "id": "customnpcs:npcCoinDiamond",
+                "Slot": 24b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 48b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "customnpcs:npcCoinGold",
                 "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 24b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 24b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 48b,
                 "Damage": 0s
             }
         ]
@@ -92,42 +110,67 @@
                 "Damage": 0s
             },
             {
-                "Slot": 16b,
-                "id": "customnpcs:npcFrostWarhammer",
+                "Slot": 1b,
+                "id": "abyssalcraft:cudgel",
                 "Count": 1b,
                 "tag": {
                     "ench": [
                         {
-                            "lvl": 4s,
-                            "id": 11s
+                            "lvl": 2,
+                            "id": 151
                         },
                         {
-                            "lvl": 2s,
-                            "id": 20s
+                            "lvl": 4,
+                            "id": 1
                         },
                         {
-                            "lvl": 3s,
-                            "id": 34s
+                            "lvl": 1,
+                            "id": 20
+                        },
+                        {
+                            "lvl": 2,
+                            "id": 19
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Lore": [
+                            "Часть таинственного существа"
+                        ],
+                        "Name": "Хвост Диксера"
+                    },
+                    "AttributeModifiers": [
+                        {
+                            "UUIDMost": 2385366072566106570L,
+                            "UUIDLeast": -4973251781137412759L,
+                            "Amount": 22.0d,
+                            "AttributeName": "generic.attackDamage",
+                            "Operation": 0,
+                            "Name": "generic.attackDamage"
+                        },
+                        {
+                            "UUIDMost": 2483309084759182161L,
+                            "UUIDLeast": -5509755960231543027L,
+                            "Amount": 8.0d,
+                            "AttributeName": "generic.maxHealth",
+                            "Operation": 0,
+                            "Name": "generic.maxHealth"
                         }
                     ]
                 },
                 "Damage": 0s
             },
             {
-                "Slot": 1b,
-                "id": "abyssalcraft:corsword",
+                "Slot": 2b,
+                "id": "minecraft:enchanted_book",
                 "Count": 1b,
                 "tag": {
-                    "ench": [
+                    "StoredEnchantments": [
                         {
                             "lvl": 1s,
-                            "id": 17s
+                            "id": 16s
                         }
-                    ],
-                    "RepairCost": 1,
-                    "display": {
-                        "Name": "Небесная Кара!"
-                    }
+                    ]
                 },
                 "Damage": 0s
             },
@@ -155,13 +198,54 @@
             },
             {
                 "Slot": 4b,
-                "id": "abyssalcraft:cudgel",
+                "id": "mod_quiver:emptybowandquiver",
                 "Count": 1b,
                 "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 48s
+                        },
+                        {
+                            "lvl": 1s,
+                            "id": 50s
+                        }
+                    ],
                     "RepairCost": 1,
                     "display": {
-                        "Name": "Хвост Дирексора"
+                        "Name": "Киллер"
                     }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "customnpcs:npcDiamondGun",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 1,
+                            "id": 51
+                        }
+                    ],
+                    "display": {
+                        "Lore": [
+                            "Лучшие таум-инженеры",
+                            "сотворили это чудо"
+                        ],
+                        "Name": "Пистолет бесконечности"
+                    },
+                    "AttributeModifiers": [
+                        {
+                            "UUIDMost": -5909539932843719547L,
+                            "UUIDLeast": -6763816558754016505L,
+                            "Amount": 0.1d,
+                            "AttributeName": "generic.movementSpeed",
+                            "Operation": 0,
+                            "Name": "generic.movementSpeed"
+                        }
+                    ]
                 },
                 "Damage": 0s
             },
@@ -189,46 +273,6 @@
             },
             {
                 "Slot": 7b,
-                "id": "mod_quiver:emptybowandquiver",
-                "Count": 1b,
-                "tag": {
-                    "ench": [
-                        {
-                            "lvl": 4s,
-                            "id": 48s
-                        },
-                        {
-                            "lvl": 1s,
-                            "id": 50s
-                        }
-                    ],
-                    "RepairCost": 1,
-                    "display": {
-                        "Name": "Киллер"
-                    }
-                },
-                "Damage": 0s
-            },
-            {
-                "Slot": 9b,
-                "id": "customnpcs:npcCursedTrident",
-                "Count": 1b,
-                "tag": {
-                    "ench": [
-                        {
-                            "lvl": 2s,
-                            "id": 19s
-                        },
-                        {
-                            "lvl": 3s,
-                            "id": 34s
-                        }
-                    ]
-                },
-                "Damage": 0s
-            },
-            {
-                "Slot": 10b,
                 "id": "abyssalcraft:dreadiumplate",
                 "Count": 1b,
                 "tag": {
@@ -246,25 +290,49 @@
                 "Damage": 0s
             },
             {
-                "Slot": 12b,
-                "id": "customnpcs:npcFrostSword",
+                "Slot": 8b,
+                "id": "customnpcs:npcDiamondBullet",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "customnpcs:npcCursedTrident",
                 "Count": 1b,
                 "tag": {
                     "ench": [
                         {
-                            "lvl": 3s,
-                            "id": 34s
+                            "lvl": 2s,
+                            "id": 19s
                         },
                         {
-                            "lvl": 4s,
-                            "id": 11s
+                            "lvl": 3s,
+                            "id": 34s
+                        }
+                    ],
+                    "AttributeModifiers": [
+                        {
+                            "UUIDMost": -7576995429176292209L,
+                            "UUIDLeast": -8499853102560101309L,
+                            "Amount": 6.0d,
+                            "AttributeName": "generic.maxHealth",
+                            "Operation": 0,
+                            "Name": "generic.maxHealth"
+                        },
+                        {
+                            "UUIDMost": 1305303510165898787L,
+                            "UUIDLeast": -7537059985740369640L,
+                            "Amount": 9.0d,
+                            "AttributeName": "generic.attackDamage",
+                            "Operation": 0,
+                            "Name": "generic.attackDamage"
                         }
                     ]
                 },
                 "Damage": 0s
             },
             {
-                "Slot": 13b,
+                "Slot": 10b,
                 "id": "customnpcs:npcMithrilHead",
                 "Count": 1b,
                 "tag": {
@@ -290,19 +358,158 @@
                 "Damage": 0s
             },
             {
+                "Slot": 12b,
+                "id": "customnpcs:npcFrostSword",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3,
+                            "id": 1
+                        },
+                        {
+                            "lvl": 3,
+                            "id": 34
+                        }
+                    ],
+                    "display": {
+                        "Lore": [
+                            "Охлаждает вас"
+                        ]
+                    },
+                    "AttributeModifiers": [
+                        {
+                            "UUIDMost": 7379568855401252762L,
+                            "UUIDLeast": -5514795779363301517L,
+                            "Amount": 3.0d,
+                            "AttributeName": "generic.knockbackResistance",
+                            "Operation": 0,
+                            "Name": "generic.knockbackResistance"
+                        },
+                        {
+                            "UUIDMost": -2862375463117306449L,
+                            "UUIDLeast": -6577430227110458575L,
+                            "Amount": 9.0d,
+                            "AttributeName": "generic.attackDamage",
+                            "Operation": 0,
+                            "Name": "generic.attackDamage"
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "customnpcs:npcFrostWarhammer",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4,
+                            "id": 11
+                        },
+                        {
+                            "lvl": 1,
+                            "id": 151
+                        },
+                        {
+                            "lvl": 4,
+                            "id": 1
+                        },
+                        {
+                            "lvl": 3,
+                            "id": 34
+                        },
+                        {
+                            "lvl": 2,
+                            "id": 20
+                        }
+                    ],
+                    "display": {
+                        "Lore": [
+                            "Охлаждает вас"
+                        ]
+                    },
+                    "AttributeModifiers": [
+                        {
+                            "UUIDMost": -718304461625997586L,
+                            "UUIDLeast": -7152362113251267921L,
+                            "Amount": 14.0d,
+                            "AttributeName": "generic.attackDamage",
+                            "Operation": 0,
+                            "Name": "generic.attackDamage"
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
                 "Slot": 15b,
                 "id": "abyssalcraft:ethaxiumsword",
                 "Count": 1b,
                 "tag": {
                     "ench": [
                         {
-                            "lvl": 2s,
-                            "id": 21s
+                            "lvl": 2,
+                            "id": 21
+                        },
+                        {
+                            "lvl": 3,
+                            "id": 12
                         }
                     ],
                     "RepairCost": 1,
                     "display": {
+                        "Lore": [
+                            "Заставляет вашу кожу каменеть"
+                        ],
                         "Name": "Эдруидовый меч"
+                    },
+                    "AttributeModifiers": [
+                        {
+                            "UUIDMost": 7974229954246952365L,
+                            "UUIDLeast": -8323381691468793691L,
+                            "Amount": 3.0d,
+                            "AttributeName": "generic.attackDamage",
+                            "Operation": 0,
+                            "Name": "generic.attackDamage"
+                        },
+                        {
+                            "UUIDMost": -6854181193090904790L,
+                            "UUIDLeast": -8094794918858849547L,
+                            "Amount": 20.0d,
+                            "AttributeName": "generic.maxHealth",
+                            "Operation": 0,
+                            "Name": "generic.maxHealth"
+                        },
+                        {
+                            "UUIDMost": -281208793568227936L,
+                            "UUIDLeast": -7816265411995456296L,
+                            "Amount": 5.0d,
+                            "AttributeName": "generic.knockbackResistance",
+                            "Operation": 0,
+                            "Name": "generic.knockbackResistance"
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "testenvironmentmod:Sw10",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 2,
+                            "id": 34
+                        }
+                    ],
+                    "display": {
+                        "Lore": [
+                            "Меч странных туземцев, найденных в парящих островах"
+                        ],
+                        "Name": "Меч туземца"
                     }
                 },
                 "Damage": 0s

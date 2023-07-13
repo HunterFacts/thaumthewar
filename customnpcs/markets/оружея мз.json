@@ -2,27 +2,45 @@
     "TraderCurrency": {
         "NpcMiscInv": [
             {
+                "Slot": 32b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 33b,
                 "id": "customnpcs:npcCoinIron",
-                "Count": 12b,
+                "Count": 48b,
                 "Damage": 0s
             },
             {
                 "Slot": 34b,
-                "id": "customnpcs:npcCoinIron",
-                "Count": 4b,
+                "id": "customnpcs:npcCoinBronze",
+                "Count": 48b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "id": "customnpcs:npcCoinGold",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 4b,
                 "id": "customnpcs:npcCoinIron",
-                "Count": 32b,
+                "Count": 16b,
                 "Damage": 0s
             },
             {
                 "Slot": 7b,
                 "id": "customnpcs:npcCoinIron",
                 "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "customnpcs:npcCoinIron",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
@@ -76,7 +94,7 @@
             {
                 "Slot": 26b,
                 "id": "customnpcs:npcCoinBronze",
-                "Count": 8b,
+                "Count": 2b,
                 "Damage": 0s
             },
             {
@@ -94,19 +112,19 @@
             {
                 "Slot": 29b,
                 "id": "customnpcs:npcCoinIron",
-                "Count": 16b,
+                "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 30b,
                 "id": "customnpcs:npcCoinBronze",
-                "Count": 1b,
+                "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 31b,
-                "id": "customnpcs:npcCoinIron",
-                "Count": 6b,
+                "id": "customnpcs:npcCoinBronze",
+                "Count": 32b,
                 "Damage": 0s
             }
         ]
@@ -205,24 +223,36 @@
             {
                 "Slot": 12b,
                 "id": "minecraft:arrow",
-                "Count": 1b,
+                "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 13b,
                 "id": "mod_quiver:poison_arrow",
-                "Count": 1b,
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "customnpcs:npcStoneBullet",
+                "Count": 64b,
                 "Damage": 0s
             },
             {
                 "Slot": 15b,
-                "id": "diatipsteel:steelSword",
-                "Count": 1b,
+                "id": "customnpcs:npcDiamondBullet",
+                "Count": 64b,
                 "Damage": 0s
             },
             {
                 "Slot": 16b,
                 "id": "mod_quiver:iron_arrow",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 17b,
+                "id": "customnpcs:npcDiamondGun",
                 "Count": 1b,
                 "Damage": 0s
             }
